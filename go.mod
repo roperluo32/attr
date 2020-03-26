@@ -1,3 +1,3 @@
-module e.coding.net/roper/start_foot/attr
+module github.com/roperluo32/attr
 
 go 1.13
