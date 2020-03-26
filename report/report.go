@@ -1,4 +1,4 @@
-package attr-report
+package report
 
 import "log"
 
